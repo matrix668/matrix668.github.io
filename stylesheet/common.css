@@ -402,6 +402,7 @@ a:hover {
 	margin: 10px auto;
 	border: 0;
 	white-space: nowrap;
+	outline:none;
 }
 
 .reg_btn {
